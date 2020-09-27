@@ -28,7 +28,7 @@
 
 .header_center > input{
     border:none;
-    /* width: 250px; */
+    width: 25vw;
     padding:10px;
     outline-width: 0;
 }
